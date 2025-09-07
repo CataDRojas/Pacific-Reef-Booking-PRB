@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="IS_S4" id="782F2B4A-5B39-4712-7D39-C30C02E12CA3" version="3.5">
+<createdBy>xjavo</createdBy>
+<createdTime>2025-09-07 21:40:58 UTC</createdTime>
+<ownerDesignName>IS_S4</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>782F2B4A-5B39-4712-7D39-C30C02E12CA3</designId>
+</OSDM_Design>
